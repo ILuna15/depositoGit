@@ -1,5 +1,9 @@
 package cuentas;
-
+/**
+ * Esta es la clase CCuenta 
+ * @author I
+ * @since 01/01/2020
+ */
 public class CCuenta {
 
 
